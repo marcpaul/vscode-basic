@@ -1,0 +1,42 @@
+{
+	"name": "vscode-basic",
+	"displayName": "vscode-basic",
+	"description": "",
+	"version": "0.0.5",
+	"publisher": "marcpaul",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/marcpaul/vscode-basic.git"
+	},
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"alefragnani.project-manager",
+		"ChakrounAnas.turbo-console-log",
+		"dakara.transformer",
+		"fofolee.crypto-tools",
+		"foxundermoon.shell-format",
+		"GitHub.codespaces",
+		"GitHub.remotehub",
+		"helixquar.randomeverything",
+		"marclipovsky.string-manipulation",
+		"ms-azuretools.vscode-docker",
+		"ms-kubernetes-tools.vscode-kubernetes-tools",
+		"ms-vscode-remote.remote-containers",
+		"ms-vscode-remote.remote-ssh-edit",
+		"ms-vscode-remote.remote-ssh",
+		"philnash.ngrok-for-vscode",
+		"redhat.vscode-xml",
+		"redhat.vscode-yaml",
+		"tinkertrain.theme-panda",
+		"Tyriar.sort-lines",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"yy0931.save-as-root",
+		"ZainChen.json"
+	]
+}
